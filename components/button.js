@@ -11,3 +11,18 @@ export const Button = styled.button`
   width: 100%;
   border: none;
 `;
+
+export const ValuationButton = styled.button`
+  background-color: #c2f7e1;
+  border: none;
+  color: #006b57;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  width: 117%;
+  height: 100%;
+  font-size: ${(props) => props.theme.typography.xs.fontSize};
+`;

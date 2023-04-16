@@ -34,6 +34,29 @@ We also ask that you update the readme with answers to the following questions
 1. Given more time, what other changes you would have liked to make?
 2. What UX or design improvements or alterations might you suggest? These can be to existing components or completely new ideas.
 
+Ans. 1: 
+
+- Add new features: Based on user feedback, we may consider adding new features to the website to enhance the user experience. This could include features like a search bar, a contact form or a chatbot.
+
+- Adding more animations and interactions: Animations and interactions can make the website more visually appealing and engaging. By adding more animations and interactions, users are more likely to stay on the website for longer and engage more with its content. 
+
+- Notification: We could add notification feature: We can use Firebase Cloud Messaging or OneSignal. These services can be integrated into your website or app to send push notifications to users. 
+
+Ans. 2: 
+I can provide some suggestions for improvements to UX or design in this project:
+ 
+- Improve accessibility: It's essential to ensure that the website is accessible to all users, regardless of their ability. This includes adding alt tags to images, providing sufficient color contrast, and using proper markup.
+
+- Simplify navigation: Navigation is a crucial aspect of user experience. We need to ensure that users can easily find what they're looking for by simplifying the navigation structure and making it easy to use.
+
+- Optimize for speed: Website speed is critical for user experience, and it can also impact search engine rankings. Optimizing images, minifying code - especially the js, css, and using a content delivery network (CDN) are some of the ways to improve website speed. 
+
+- Improve the user interface: The user interface (UI) should be intuitive and easy to use and should follow design principle's.
+
+- Conduct user testing: Testing with real users is an essential part of improving user experience. You may consider conducting usability tests or gathering feedback from users to identify areas of improvement and make data-driven decisions.
+
+Overall, the goal should be to create a website that is user-friendly, accessible, and engaging. These are some suggestions that I think we could implement in the future. 
+
 ----
 
 **Optional**: If you have time, show us some more by fetching the data from the api
